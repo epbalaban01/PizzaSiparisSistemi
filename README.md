@@ -1,5 +1,14 @@
 # Pizza Sipariş Sistemi
 
+[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+
+<!---------------------------------------------------------------------------->
+
+[KBD]: https://colab.research.google.com/drive/1iuDcAdE2mVLbpPsTvrvBJgklbiqsNUSM?usp=sharing
+[#]: #
+
+
+
 | <b>Ekran Görüntüleri</b> |
 |---|
 | ![Ekran görüntüsü 2023-03-11 220014](https://user-images.githubusercontent.com/42430554/224506853-d8b1f500-a042-41f0-a340-d590874d6985.jpg) |
