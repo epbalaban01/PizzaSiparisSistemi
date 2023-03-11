@@ -1,6 +1,6 @@
 # Pizza Sipariş Sistemi
 
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+Google Colab - [<kbd> <br> Ziyaret Et <br> </kbd>][KBD]
 
 <!---------------------------------------------------------------------------->
 
